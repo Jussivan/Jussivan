@@ -7,17 +7,12 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
-  <img align="center" alt="MongoDB" height="30" width="40" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <img align="center" alt="C" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Bootstrap" height="30" width="40" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg">
   <img align="center" alt="React" height="30" width="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg">
 </div>
 
   
