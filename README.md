@@ -5,7 +5,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jussivan&theme=github_dark)
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://www.svgrepo.com/show/373968/photoshop.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://www.vectorlogo.zone/logos/java/java-icon.svg">
   <img align="center" alt="C" height="30" width="40" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg">
