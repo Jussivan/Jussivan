@@ -1,9 +1,9 @@
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LisboaAnt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LisboaAnt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LisboaAnt&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LisboaAnt&theme=github_dark&utcOffset=-3)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LisboaAnt&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jussivan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Jussivan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Jussivan&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Jussivan&theme=github_dark&utcOffset=-3)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Jussivan&theme=github_dark)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Figma" height="30" width="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg">
@@ -24,9 +24,8 @@
   #
  
 <div> 
-  <a href="https://instagram.com/antoniolis_boa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:antoniol.carvalho49@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/antonio-lisboa-de-carvalho-b5a5a4194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-   <a href="https://www.youtube.com/@antoniolisboa3897/videos" target="_blank"><img src="https://img.shields.io/badge/-YouTube-%23E4401F?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/jussivan_27" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:jussivanbm1029@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/jussivan-bezerra-matos-49254228b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
 </div>
